@@ -20,7 +20,7 @@
 
 ## 3. Fontes de Dados
 
-**Origem dos Dados:** Arquivo CSV.
+**Origem dos Dados:** Dados fictícios em arquivos CSV fornecidos pela Data Science Academy.
 
 **Tabela e Campos Utilizados:**
 
